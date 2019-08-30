@@ -27,8 +27,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
-* [A REVIEW OF COOPERATIVE MULTI-AGENT DEEP
-REINFORCEMENT LEARNING](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid, Davood Hajinezhad
+* [A Review of Cooperative Multi-Agent Deep Reinforcement Learning](https://arxiv.org/abs/1908.03963) by Afshin OroojlooyJadid, Davood Hajinezhad, 2019
 * [Deep Reinforcement Learning for Multi-Agent Systems: A Review of Challenges, Solutions and Applications](https://arxiv.org/abs/1812.11794) by Thanh Thi Nguyen, Ngoc Duy Nguyen, and Saeid Nahavandi, 2019.
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396) by Silva, Felipe Leno da; Costa, Anna Helena Reali. JAIR, 2019.
 * [Autonomously Reusing Knowledge in Multiagent Reinforcement Learning](https://www.ijcai.org/proceedings/2018/774) by Silva, Felipe Leno da; Taylor, Matthew E.; Costa, Anna Helena Reali. IJCAI, 2018.
